@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1351717874 source:d:\code\computer animation\lab 3\lab 3 - 2012.11.02 fin\trivial.cpp
+	"trivial.h"
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	<iostream>
+
+1351717622 d:\code\computer animation\lab 3\lab 3 - 2012.11.02 fin\trivial.h
+	<vector>
+
+1351316679 source:d:\code\computer animation\lab 3\lab 3 - 2012.11.02 fin\shader.cpp
+	"SHADER.h"
+	<GL/glew.h>
+	<stdio.h>
+	<iostream>
+	<string>
+
+1351316379 d:\code\computer animation\lab 3\lab 3 - 2012.11.02 fin\shader.h
+	<GL/glew.h>
+	<GL/glut.h>
+	<string>
+
+1351800158 source:d:\code\computer animation\lab 3\lab 3 - 2012.11.02 fin\main.cpp
+	"SHADER.h"
+	"trivial.h"
+	<GL/glew.h>
+	<GL/glut.h>
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<vector>
+	"particle.h"
+	"control.h"
+
+1351554149 d:\code\computer animation\lab 3\lab 3 - 2012.11.02 fin\particle.h
+	<vector>
+
+1351751034 d:\code\computer animation\lab 3\lab 3 - 2012.11.02 fin\control.h
+	"particle.h"
+	<vector>
+
+1351801176 source:d:\code\computer animation\lab 3\lab 3 - 2012.11.02 fin\control.cpp
+	"control.h"
+	"particle.h"
+	"trivial.h"
+	<vector>
+	<cmath>
+	<iostream>
+	<ctime>
+	<stdlib.h>
+

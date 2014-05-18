@@ -1,0 +1,248 @@
+# depslib dependency file v1.0
+1353895351 source:d:\code\computer animation\lab 4\lab 4 - 2012.11.21\main.cpp
+	"SHADER.h"
+	"trivial.h"
+	<GL/glew.h>
+	<GL/glut.h>
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<vector>
+	"particle.h"
+	"control.h"
+
+1351312779 d:\code\computer animation\lab 4\lab 4 - 2012.11.21\shader.h
+	<GL/glew.h>
+	<GL/glut.h>
+	<string>
+
+1353801974 d:\code\computer animation\lab 4\lab 4 - 2012.11.21\trivial.h
+	<vector>
+
+1353900170 d:\code\computer animation\lab 4\lab 4 - 2012.11.21\particle.h
+	<vector>
+
+1353900646 d:\code\computer animation\lab 4\lab 4 - 2012.11.21\control.h
+	"particle.h"
+	<vector>
+
+1353801973 source:d:\code\computer animation\lab 4\lab 4 - 2012.11.21\trivial.cpp
+	"trivial.h"
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	<iostream>
+
+1351313079 source:d:\code\computer animation\lab 4\lab 4 - 2012.11.21\shader.cpp
+	"SHADER.h"
+	<GL/glew.h>
+	<stdio.h>
+	<iostream>
+	<string>
+
+1353901317 source:d:\code\computer animation\lab 4\lab 4 - 2012.11.21\control.cpp
+	"control.h"
+	"particle.h"
+	"trivial.h"
+	<vector>
+	<cmath>
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1353901049 source:d:\code\computer animation\lab 4\lab 4 - 2012.11.21\leader.cpp
+	"trivial.h"
+	"leader.h"
+
+1353901009 d:\code\computer animation\lab 4\lab 4 - 2012.11.21\leader.h
+
+1354053139 source:d:\code\computer animation\lab 4\lab 4 - 2012.11.26\control.cpp
+	"control.h"
+	"particle.h"
+	"trivial.h"
+	<vector>
+	<cmath>
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1354049536 d:\code\computer animation\lab 4\lab 4 - 2012.11.26\control.h
+	"particle.h"
+	<vector>
+
+1354034791 d:\code\computer animation\lab 4\lab 4 - 2012.11.26\particle.h
+	<vector>
+
+1353953019 d:\code\computer animation\lab 4\lab 4 - 2012.11.26\trivial.h
+	<vector>
+
+1353965770 source:d:\code\computer animation\lab 4\lab 4 - 2012.11.26\leader.cpp
+	"trivial.h"
+	"leader.h"
+	<vector>
+	<cmath>
+	<iostream>
+
+1353965603 d:\code\computer animation\lab 4\lab 4 - 2012.11.26\leader.h
+	<vector>
+
+1354053024 source:d:\code\computer animation\lab 4\lab 4 - 2012.11.26\main.cpp
+	"SHADER.h"
+	"trivial.h"
+	<GL/glew.h>
+	<GL/glut.h>
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<vector>
+	"particle.h"
+	"leader.h"
+	"control.h"
+
+1351312779 d:\code\computer animation\lab 4\lab 4 - 2012.11.26\shader.h
+	<GL/glew.h>
+	<GL/glut.h>
+	<string>
+
+1353953024 source:d:\code\computer animation\lab 4\lab 4 - 2012.11.26\trivial.cpp
+	"trivial.h"
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	<iostream>
+
+1351313079 source:d:\code\computer animation\lab 4\lab 4 - 2012.11.26\shader.cpp
+	"SHADER.h"
+	<GL/glew.h>
+	<stdio.h>
+	<iostream>
+	<string>
+
+1354223467 source:d:\code\computer animation\lab 4\lab 4 - 2012.11.28\control.cpp
+	"control.h"
+	"particle.h"
+	"trivial.h"
+	<vector>
+	<cmath>
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1354252724 d:\code\computer animation\lab 4\lab 4 - 2012.11.28\control.h
+	"particle.h"
+	<vector>
+
+1354034791 d:\code\computer animation\lab 4\lab 4 - 2012.11.28\particle.h
+	<vector>
+
+1354253064 d:\code\computer animation\lab 4\lab 4 - 2012.11.28\trivial.h
+	<vector>
+
+1353965770 source:d:\code\computer animation\lab 4\lab 4 - 2012.11.28\leader.cpp
+	"trivial.h"
+	"leader.h"
+	<vector>
+	<cmath>
+	<iostream>
+
+1354252786 d:\code\computer animation\lab 4\lab 4 - 2012.11.28\leader.h
+	<vector>
+
+1354251895 source:d:\code\computer animation\lab 4\lab 4 - 2012.11.28\main.cpp
+	"SHADER.h"
+	"trivial.h"
+	<GL/glew.h>
+	<GL/glut.h>
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<vector>
+	"particle.h"
+	"leader.h"
+	"control.h"
+
+1351312779 d:\code\computer animation\lab 4\lab 4 - 2012.11.28\shader.h
+	<GL/glew.h>
+	<GL/glut.h>
+	<string>
+
+1353953024 source:d:\code\computer animation\lab 4\lab 4 - 2012.11.28\trivial.cpp
+	"trivial.h"
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	<iostream>
+
+1354136637 source:d:\code\computer animation\lab 4\lab 4 - 2012.11.28\shader.cpp
+	"SHADER.h"
+	<GL/glew.h>
+	<stdio.h>
+	<iostream>
+	<string>
+
+1355117530 source:d:\dropbox\code\computer animation\lab 4\lab 4 - 2012.11.28\control.cpp
+	"control.h"
+	"particle.h"
+	"trivial.h"
+	<vector>
+	<cmath>
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+
+1354256324 d:\dropbox\code\computer animation\lab 4\lab 4 - 2012.11.28\control.h
+	"particle.h"
+	<vector>
+
+1354038391 d:\dropbox\code\computer animation\lab 4\lab 4 - 2012.11.28\particle.h
+	<vector>
+
+1355117608 d:\dropbox\code\computer animation\lab 4\lab 4 - 2012.11.28\trivial.h
+	<vector>
+
+1354256486 source:d:\dropbox\code\computer animation\lab 4\lab 4 - 2012.11.28\leader.cpp
+	"trivial.h"
+	"leader.h"
+	<vector>
+	<cmath>
+	<iostream>
+
+1354256386 d:\dropbox\code\computer animation\lab 4\lab 4 - 2012.11.28\leader.h
+	<vector>
+
+1354255495 source:d:\dropbox\code\computer animation\lab 4\lab 4 - 2012.11.28\main.cpp
+	"SHADER.h"
+	"trivial.h"
+	<GL/glew.h>
+	<GL/glut.h>
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<vector>
+	"particle.h"
+	"leader.h"
+	"control.h"
+
+1351316379 d:\dropbox\code\computer animation\lab 4\lab 4 - 2012.11.28\shader.h
+	<GL/glew.h>
+	<GL/glut.h>
+	<string>
+
+1354140237 source:d:\dropbox\code\computer animation\lab 4\lab 4 - 2012.11.28\shader.cpp
+	"SHADER.h"
+	<GL/glew.h>
+	<stdio.h>
+	<iostream>
+	<string>
+
+1354256669 source:d:\dropbox\code\computer animation\lab 4\lab 4 - 2012.11.28\trivial.cpp
+	"trivial.h"
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	<iostream>
+

@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1353090992 source:d:\code\computer animation\lab 3\lab 3 - 2012.11.10 momentum fin\control.cpp
+	"control.h"
+	"particle.h"
+	"trivial.h"
+	<vector>
+	<cmath>
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
+1352324490 d:\code\computer animation\lab 3\lab 3 - 2012.11.10 momentum fin\control.h
+	"particle.h"
+	<vector>
+
+1352238319 d:\code\computer animation\lab 3\lab 3 - 2012.11.10 momentum fin\particle.h
+	<vector>
+
+1352569598 d:\code\computer animation\lab 3\lab 3 - 2012.11.10 momentum fin\trivial.h
+	<vector>
+
+1352824283 source:d:\code\computer animation\lab 3\lab 3 - 2012.11.10 momentum fin\main.cpp
+	"SHADER.h"
+	"trivial.h"
+	<GL/glew.h>
+	<GL/glut.h>
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<vector>
+	"particle.h"
+	"control.h"
+
+1351312779 d:\code\computer animation\lab 3\lab 3 - 2012.11.10 momentum fin\shader.h
+	<GL/glew.h>
+	<GL/glut.h>
+	<string>
+
+1351313079 source:d:\code\computer animation\lab 3\lab 3 - 2012.11.10 momentum fin\shader.cpp
+	"SHADER.h"
+	<GL/glew.h>
+	<stdio.h>
+	<iostream>
+	<string>
+
+1352783256 source:d:\code\computer animation\lab 3\lab 3 - 2012.11.10 momentum fin\trivial.cpp
+	"trivial.h"
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	<iostream>
+

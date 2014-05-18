@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1349792375 source:d:\code\computer animation\lab 2\lab 2 - ver 3\main.cpp
+	"trivial.h"
+	<GL/glut.h>
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<vector>
+	"CONTROL.h"
+
+1349717687 d:\code\computer animation\lab 2\lab 2 - ver 3\trivial.h
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<GL/glut.h>
+
+1349792407 d:\code\computer animation\lab 2\lab 2 - ver 3\control.h
+	"HUMAN.h"
+
+1349791692 d:\code\computer animation\lab 2\lab 2 - ver 3\human.h
+	<iostream>
+	<vector>
+
+1349718115 source:d:\code\computer animation\lab 2\lab 2 - ver 3\trivial.cpp
+	"trivial.h"
+	<GL/glut.h>
+	<math.h>
+	<vector>
+	<iostream>
+
+1349726212 source:d:\code\computer animation\lab 2\lab 2 - ver 3\control.cpp
+	"CONTROL.h"
+	"HUMAN.h"
+	"trivial.h"
+	<math.h>
+	<vector>
+	<iostream>
+
